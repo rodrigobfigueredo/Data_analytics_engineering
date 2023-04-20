@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-shop-rodrigo-brito",
+  "private_key_id": "572623863bc95d2ef7bd98981aeccf323a625de5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCDQlXWA8/PCgP2\nVFBZU6A1ZeSWb1JnZ/YIPTZuRcSPmhreTvqYSwE0oJ0rCe5B6qoSrN2PqIkRw4Zs\nkmPoVIRqP01xvE71cDaOQHGWhJSU6hLgaZtt4k0xotKYhyDy3nFrGdWY8tKIANQP\nWgjvm37g24N66gYTZtWOLSDb6cKFNp7Y6I+/HYxdfb1WbcjbUQm5GMl+XGMl/mQZ\nkK05dI0oXTKA76c6k9GOhdL0Mii1h/NGq5VAAsEFmKTOVPnz53gENt7rkkal6zY7\neOMPoskPeUjU5lhAcEdj+pfJEt795/OlsIOu9yxKpEka1g4Z/pseSVWyCji3alRw\n3/frpnc7AgMBAAECggEAE3KKoTDjYzuKpr6LQRDg1ciI+7j2rpd6nnHjVKdFnjko\n7fMpsdK7FP8PCkdoY5/PHwE5uoUv+c/MZN2zq8KJ8+v5H3bVBAxiKOVnbvOpx/5+\nWX2MJ9W1tjr3lN3AhftrNoEXYpfnlXr58GRYmpehTtN3QYjW6Zz82xnYmnyh83aT\n88/qJo2cTUvMQUE95Hk9qiVWKTS9PREXzyQT2a2CHf50kzpqV2fbCLKEFueNDxrw\n7movunl+ByOIhPEe9EjIj3cOKFhq+CkGCyvvi2SDaMjIe31ArS/EDqP8liyu3cCQ\n3r3tcLjTKuO9IVRpglc0FHHRIgPWgjSmCDnHMtHU0QKBgQC5aL2O0exo+KcPwi17\nOhJZeY8D9TIYMOa2VSt7bOQGpbrwnBBcZ1mOh1m0HAjHq/AUgW/iBphSuoT4D/X5\nR1lh4pU0gNSjOuAt5H011oLrdCFHJstisutMg9BDTGRl+Y48/VAnsnEDGj8nKqv8\niAzNGZBxgueMiJi2wIMmPd5CbwKBgQC1O8I7Vo0TSaCx+wiXTMuuvDdZDsHTG/H0\nUAZqA8nz77cfheGErHdqgfAKjxapQlRtvHNg2Aupzs5K0CZ6z3f4fbTr+Z8gUXg6\nsOMIg9cUCrPhTBa8ioCSF5Ugfene+9LDYjnBvI5+uSaK5MlyXGfarsbFLw6fKFr4\nGKpzmCLN9QKBgHPGNo+m/8NweQk7DCFlWq3qXOZwxm4aowX52uQAU8be2AOEwCaj\nFmYMmHQCCW19LLXxOUbfLWCDPaKUfNjCt8qKrPaS97RRgEjH43Op1ihmZJ1EWT3x\nUUJ/EJ3lZs/SbAIjf1i6cR0p14OCftB6t9ueefaXcjTr2shLH9nSSiYbAoGAEsbc\nOtWezC7GrWn62+IjADmT6nAy+LJegReBcp5t4A4oBOYUFXDg9nH78rwcdvDeWng5\n5AC+RJuel/W05uhz35T2l7RHHkwSjtIg05MFR5hMRr1hZatb4sb6tmEVR/sDPScC\nIOZuRQbdzWoizOxx/iA5i9hyRV8i/a1gi5VplbkCgYA5vnvaIYM5YXhQ0a/QbKNa\nBJmy5oiSqab2PNfUmgDF1c6zf1o8qdVV/VUPjbd+CdomeADA5otzYAm/9pCa2AOn\n+cuxVNkTDmOUjBdVuukBepKzNBoIMf1w9UZl1Zrs39DWPNXGlN0rQazze1h1n8HB\nCLnZL3LlGaYPEtiai8dKnw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@dbt-shop-rodrigo-brito.iam.gserviceaccount.com",
+  "client_id": "100911586660558725492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40dbt-shop-rodrigo-brito.iam.gserviceaccount.com"
+}
